@@ -51,5 +51,3 @@ echo -e " \n \033[32m imr - Import React\033[m \n"
 echo -e " \n \033[32m imrc - Import React, Component\033[m \n"
 echo -e " \n \033[32m cc - Class Component\033[m \n"
 echo -e " \n \033[32m sfc - Stateless Function Component\033[m \n"
-
-echo -e " \n \033[32m Add sfc - Stateless Function Component\033[m \n"
