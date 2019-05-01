@@ -5,12 +5,7 @@
 # Create and set up
 APP_NAME=$1
 
-# Create directories for rysnc and crontab
-# This is for the primary node ONLY (uncomment)
-# docker-machine ssh ${DROPLET_NAME} mkdir /home/backup /home/backup/db /home/backup/db/daily /home/backup/db/weekly /home/backup/db/monthly
-
 # Create a react app with input name
-
 yarn create react-app $1
 echo -e " \n \033[32m React app created\033[m \n"
 
